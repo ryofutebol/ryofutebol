@@ -4,9 +4,9 @@
   <a href="https://github.com/ryofutebol/ryofutebol/">
     <img src="https://komarev.com/ghpvc/?username=ryofutebol" alt="ryofutebol" />
   </a>
-  <a href="http://twitter.com/_rryyoo">
+<!--   <a href="http://twitter.com/_rryyoo">
     <img height="20" src="https://img.shields.io/twitter/follow/_rryyoo?label=Twitter&logo=twitter&style=flat" />
-  </a>
+  </a> -->
   <a href="https://github.com/yutkat">
     <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
   </a>
