@@ -1,5 +1,5 @@
 ### Hi there 👋
-🍀 I use Vim.
+🍀 JetBrainsにVimを入れてコードを書きます。
 <!-- <p align="left"> 
   <a href="https://github.com/ryofutebol/ryofutebol/">
     <img src="https://komarev.com/ghpvc/?username=ryofutebol" alt="ryofutebol" />
