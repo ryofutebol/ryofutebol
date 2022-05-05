@@ -1,5 +1,5 @@
-### Hi there 👋
-🍀 JetBrainsにVimを入れてコードを書きます。
+## Hi there 👋
+🍀 JetBrainsにVimを入れてコードを書くのが好きです。
 <!-- <p align="left"> 
   <a href="https://github.com/ryofutebol/ryofutebol/">
     <img src="https://komarev.com/ghpvc/?username=ryofutebol" alt="ryofutebol" />
